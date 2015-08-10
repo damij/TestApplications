@@ -1,0 +1,3 @@
+artifacts:
+  - path: AppveyorTest\bin\Debug\AppveyorTest.exe
+    name: AppveyorTest
