@@ -1,0 +1,6 @@
+C:\SOURCE\csharp\AppveyorTest\AppveyorTest\bin\Debug\AppveyorTest.exe.config
+C:\SOURCE\csharp\AppveyorTest\AppveyorTest\bin\Debug\AppveyorTest.exe
+C:\SOURCE\csharp\AppveyorTest\AppveyorTest\bin\Debug\AppveyorTest.pdb
+C:\SOURCE\csharp\AppveyorTest\AppveyorTest\obj\Debug\AppveyorTest.csprojResolveAssemblyReference.cache
+C:\SOURCE\csharp\AppveyorTest\AppveyorTest\obj\Debug\AppveyorTest.exe
+C:\SOURCE\csharp\AppveyorTest\AppveyorTest\obj\Debug\AppveyorTest.pdb
