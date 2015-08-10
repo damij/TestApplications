@@ -1,0 +1,9 @@
+C:\SOURCE\csharp\AppveyorTest\ApveyorTestUT\bin\Debug\ApveyorTestUT.dll
+C:\SOURCE\csharp\AppveyorTest\ApveyorTestUT\bin\Debug\ApveyorTestUT.pdb
+C:\SOURCE\csharp\AppveyorTest\ApveyorTestUT\bin\Debug\AppveyorTest.exe
+C:\SOURCE\csharp\AppveyorTest\ApveyorTestUT\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\SOURCE\csharp\AppveyorTest\ApveyorTestUT\bin\Debug\AppveyorTest.pdb
+C:\SOURCE\csharp\AppveyorTest\ApveyorTestUT\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\SOURCE\csharp\AppveyorTest\ApveyorTestUT\obj\Debug\ApveyorTestUT.csprojResolveAssemblyReference.cache
+C:\SOURCE\csharp\AppveyorTest\ApveyorTestUT\obj\Debug\ApveyorTestUT.dll
+C:\SOURCE\csharp\AppveyorTest\ApveyorTestUT\obj\Debug\ApveyorTestUT.pdb
